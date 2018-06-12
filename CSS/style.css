@@ -1,0 +1,59 @@
+p {
+
+font-size: 2rem;
+
+}
+
+
+.nav-link{
+font-size: 2rem;
+
+
+}
+
+.navbar-brand{
+font-size: 2rem;
+
+
+}
+
+#row1{
+
+margin-bottom: 5rem;
+
+}
+
+#row2{
+
+margin-bottom: 6rem;
+}
+
+.cars_brand{
+
+margin-left: 8rem;
+color: white;
+}
+
+.span6{
+
+font-size: 3rem;
+}
+
+
+.footer-items{
+    list-style-type:none;
+    font-size: 5rem;
+
+
+}
+
+#login_col p{
+font-size: 1rem;
+
+
+}
+
+#my_list li{
+font-size: 1.5rem;
+
+}
